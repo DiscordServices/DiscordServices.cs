@@ -2,6 +2,22 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>DiscordServices</RootNamespace>
+    <Company>Fluxpoint Development</Company>
+    <Authors>Builderb</Authors>
+    <PackageReleaseNotes>First release of the api lib.</PackageReleaseNotes>
+    <Description>API lib for discordservices.net bot list</Description>
+    <Copyright>Copyright 2020 Fluxpoint Development</Copyright>
+    <PackageTags>discord</PackageTags>
+    <RepositoryUrl>https://github.com/DiscordServices/DiscordServices.cs</RepositoryUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Net.WebSocket" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Responses\" />
+  </ItemGroup>
 
 </Project>
