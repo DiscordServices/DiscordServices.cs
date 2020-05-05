@@ -163,7 +163,7 @@ namespace DiscordServices
             }
         }
 
-        public async Task PostNews(List<Command> commands)
+        public async Task PostCommands(List<Command> commands)
         {
             if (commands == null)
             {

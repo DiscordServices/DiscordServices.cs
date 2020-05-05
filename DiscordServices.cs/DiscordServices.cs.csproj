@@ -5,11 +5,12 @@
     <RootNamespace>DiscordServices</RootNamespace>
     <Company>Fluxpoint Development</Company>
     <Authors>Builderb</Authors>
-    <PackageReleaseNotes>First release of the api lib.</PackageReleaseNotes>
+    <PackageReleaseNotes>Forgot to rename postcommands</PackageReleaseNotes>
     <Description>API lib for discordservices.net bot list</Description>
     <Copyright>Copyright 2020 Fluxpoint Development</Copyright>
     <PackageTags>discord</PackageTags>
     <RepositoryUrl>https://github.com/DiscordServices/DiscordServices.cs</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
