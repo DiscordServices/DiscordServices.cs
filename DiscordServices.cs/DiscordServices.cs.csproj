@@ -5,7 +5,7 @@
     <RootNamespace>DiscordServices</RootNamespace>
     <Company>Fluxpoint Development</Company>
     <Authors>Builderb</Authors>
-    <PackageReleaseNotes>Forgot to rename postcommands</PackageReleaseNotes>
+    <PackageReleaseNotes>Updated newtonsoft to 13.0.3</PackageReleaseNotes>
     <Description>API lib for discordservices.net bot list</Description>
     <Copyright>Copyright 2020 Fluxpoint Development</Copyright>
     <PackageTags>discord</PackageTags>
